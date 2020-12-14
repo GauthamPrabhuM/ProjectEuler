@@ -32,7 +32,7 @@ int main()
     
     return 0;
 }
-
+//fundamental Any integer greater than 1 is either a prime number, or can be written as a unique product of prime numbers (ignoring the order).
 
 
 
