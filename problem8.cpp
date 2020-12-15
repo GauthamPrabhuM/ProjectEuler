@@ -16,7 +16,6 @@ int main()
       for (unsigned int i = 0; i < span; i++)
         current *= number[start + i] - '0';
 
-      // better than before ?
       if (best < current)
         best = current;
     }
